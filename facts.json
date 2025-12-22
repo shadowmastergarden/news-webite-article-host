@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "category": "Science",
+    "fact": "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.",
+    "emoji": "🍯",
+    "source": "National Geographic",
+    "created_at": "2025-01-10T09:15:00Z",
+    "updated_at": "2025-02-01T11:00:00Z",
+    "explanation": "Honey has very low moisture and is acidic, creating an environment where bacteria and spoilage organisms cannot survive.",
+    "language": "en",
+    "link": "https://example.com/honey.jpg"
+  },
+  {
+    "id": "2",
+    "category": "Nature",
+    "fact": "Octopuses have three hearts and blue blood.",
+    "emoji": "🐙",
+    "source": "Smithsonian Magazine",
+    "created_at": "2025-02-02T14:20:00Z",
+    "updated_at": "2025-02-02T14:20:00Z",
+    "explanation": "Two hearts pump blood to the gills, while a third circulates it to the rest of the body. Their blood is blue because it uses copper to transport oxygen, rather than iron.",
+    "language": "en",
+    "link": "https://example.com/octopus.jpg"
+  },
+  {
+    "id": "3",
+    "category": "Space",
+    "fact": "A day on Venus is longer than a year on Venus.",
+    "emoji": "🪐",
+    "source": "NASA",
+    "created_at": "2025-02-03T08:00:00Z",
+    "updated_at": "2025-02-03T08:00:00Z",
+    "explanation": "Venus rotates very slowly on its axis, taking 243 Earth days to complete one rotation. However, it orbits the Sun relatively quickly, completing a revolution in just 225 Earth days.",
+    "language": "en",
+    "link": "https://example.com/venus.jpg"
+  },
+  {
+    "id": "4",
+    "category": "History",
+    "fact": "The shortest war in history lasted between 38 and 45 minutes.",
+    "emoji": "⏱️",
+    "source": "Guinness World Records",
+    "created_at": "2025-02-04T10:45:00Z",
+    "updated_at": "2025-02-04T10:45:00Z",
+    "explanation": "The Anglo-Zanzibar War occurred on August 27, 1896. The conflict began at 9:00 AM and ended shortly after when the Sultan's forces surrendered.",
+    "language": "en",
+    "link": "https://example.com/zanzibar_war.jpg"
+  },
+  {
+    "id": "5",
+    "category": "Technology",
+    "fact": "The first webcam was invented to check the status of a coffee pot.",
+    "emoji": "☕",
+    "source": "University of Cambridge",
+    "created_at": "2025-02-05T16:30:00Z",
+    "updated_at": "2025-02-05T16:30:00Z",
+    "explanation": "In 1991, researchers at the University of Cambridge set up a camera pointing at the Trojan Room coffee pot so they could check if there was coffee before walking down the hall.",
+    "language": "en",
+    "link": "https://example.com/trojan_coffee.jpg"
+  }
+]
