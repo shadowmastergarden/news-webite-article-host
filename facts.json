@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "category": "Science",
+    "fact": "Honey never spoils. Archaeologists have found 3000-year-old honey in Egyptian tombs that was still edible!",
+    "emoji": "🍯",
+    "likes": 1245,
+    "source": "National Geographic"
+  },
+  {
+    "id": "2",
+    "category": "Psychology",
+    "fact": "Music can repair brain damage and return lost memories.",
+    "emoji": "🧠",
+    "likes": 980,
+    "source": "Science Daily"
+  }
+]
