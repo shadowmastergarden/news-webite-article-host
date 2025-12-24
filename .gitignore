@@ -1,0 +1,5 @@
+facts_batch_*.json
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
