@@ -1,0 +1,7 @@
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+  Access-Control-Allow-Origin: *
+
+/articles.json
+  Cache-Control: public, max-age=60
+  Access-Control-Allow-Origin: *
